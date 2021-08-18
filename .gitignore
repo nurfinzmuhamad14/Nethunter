@@ -4,7 +4,7 @@ nethunter
 out
 output
 toolchain_archs
-
+local.config
 anykernel3/modules
 
 
